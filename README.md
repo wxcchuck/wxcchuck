@@ -1,4 +1,4 @@
-# Hello, I am Xuecheng.
+# Hello!
 
 ## I work in the field of sustainability within the built environment.
 
