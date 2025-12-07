@@ -1,2 +1,11 @@
-theme: jekyll-theme-Cayman
+# Site settings
 title: Xuecheng Wang
+email: wxcchuck@hotmail.com
+description: Professional work, personal interests
+baseurl: /wxcchuck
+url: wxcchuck.github.io
+github_username: wxcchuck
+
+# Building settings
+theme: jekyll-theme-Cayman
+plugins: jekyll-feed
