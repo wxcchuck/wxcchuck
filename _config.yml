@@ -8,4 +8,5 @@ github_username: wxcchuck
 
 # Building settings
 theme: jekyll-theme-Cayman
-plugins: jekyll-feed
+plugins: 
+- jekyll-feed
