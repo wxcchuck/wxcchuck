@@ -7,6 +7,6 @@ url: wxcchuck.github.io
 github_username: wxcchuck
 
 # Building settings
-theme: jekyll-theme-Cayman
+theme: minima
 plugins: 
 - jekyll-feed
