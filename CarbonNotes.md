@@ -33,7 +33,7 @@ The first three portray a linear asset life cycle. Cradle to Cradle, however, fo
 - **kgCO₂e/m² (GIA)** – standard unit for expressing carbon intensity
 - **tCO₂e** – cumulative impacts by module or reporting boundary
 - **Exceptions** - [B6] is reported in kWh/year, [B7] m3/day, although [B6-B7] collectively can be reported in kgCO₂e/year. [B8] is reported in kgCO₂e/year.
-- **Remember** - CCO₂e includes all greenhouse gases (GHGs), so the ‘e’ matters!
+- **Remember** - CO₂e includes all greenhouse gases (GHGs), so the ‘e’ matters!
 
 # Carbon Notes #1
 ## [A0] Pre-construction
@@ -53,7 +53,7 @@ Proforma list
 
 #### 📊 Data sources 
 - **Initial assumptions** can be based on consultant input or past project experience. 
-- **Emission factors** for projects in the UK can be sourced from [GOV.UK](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025). Be careful with using the correct units for calculation here - gCO~2~e/km, gCO~2~e/mile, kgCO~2~e/tonne.km, etc.
+- **Emission factors** for projects in the UK can be sourced from [GOV.UK](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025). Be careful with using the correct units for calculation here - gCO₂e/km, gCO₂e/mile, kgCO₂e/tonne.km, etc.
 - **Records**: As a project progresses, records of what, how and when each activity took place should be requested from the consultants. 
 
 #### 📝 Assessment methods
