@@ -12,7 +12,7 @@ This new series — Carbon Notes — is my way of sharing lessons learned and pr
 Each post will unpack one module at a time. Starting with the basics: terminologies and assessment boundaries — because it’s essential we’re all speaking the same language.
 
 <p align="center">
-<img alt="Carbon Notes_#0" src="assets/Carbon Notes_#0.jpg" width="1080px" />
+<img alt="Carbon Notes_#0" src="assets/CarbonNotes0.jpg" width="1080px" />
 </p>
 <p align="center">
 <align="center">Carbon Notes_#0
@@ -50,7 +50,7 @@ The first three portray a linear asset life cycle. Cradle to Cradle, however, fo
 The module is assumed to have low carbon emissions. However, there isn’t sufficient evidence to confirm that it contributes only a small percentage to the overall assessment. In reality, its impact depends on project type, site logistics, and consultant coordination.
 
 <p align="center">
-<img alt="Carbon Notes_#1" src="assets/Carbon Notes_#1.jpg" width="1080px" />
+<img alt="Carbon Notes_#1" src="assets/CarbonNotes1.jpg" width="1080px" />
 </p>
 <p align="center">
 <align="center">Carbon Notes_#1
@@ -60,7 +60,7 @@ The module is assumed to have low carbon emissions. However, there isn’t suffi
 The pre-construction assessment is limited to activities that require travel, attendance on site and equipment necessary for the site only. A proforma list of designers, specialists and consultants can help record those activities exclusive to the site.
 
 <p align="center">
-<img alt="Proforma list" src="assets/Carbon Notes_#1 Table.jpg" width="900px" />
+<img alt="Proforma list" src="assets/Carbon Notes1_Table.jpg" width="900px" />
 </p>
 <p align="center">
 <align="center">Proforma list
