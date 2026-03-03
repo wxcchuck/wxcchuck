@@ -14,9 +14,6 @@ Each post will unpack one module at a time. Starting with the basics: terminolog
 <p align="center">
 <img alt="Carbon Notes_#0" src="assets/CarbonNotes0.jpg" width="1080px" />
 </p>
-<p align="center">
-<align="center">Carbon Notes_#0
-</p>
 
 #### 🧱 The RICS WLCA Professional Standard is built on a framework of modules (EN 15978):
 - **[A0–A5]** Upfront Carbon**: From raw material sourcing to construction and installation. [A0] is new in the 2nd edition and optional for separate reporting — but should be included in upfront and embodied carbon. 
@@ -52,15 +49,12 @@ The module is assumed to have low carbon emissions. However, there isn’t suffi
 <p align="center">
 <img alt="Carbon Notes_#1" src="assets/CarbonNotes1.jpg" width="1080px" />
 </p>
-<p align="center">
-<align="center">Carbon Notes_#1
-</p>
 
 #### 📏 Scope & Extent
 The pre-construction assessment is limited to activities that require travel, attendance on site and equipment necessary for the site only. A proforma list of designers, specialists and consultants can help record those activities exclusive to the site.
 
 <p align="center">
-<img alt="Proforma list" src="assets/CarbonNotes1_Table.png" width="900px" />
+<img alt="Proforma list" src="assets/CarbonNotes1_Table.png" width="750px" />
 </p>
 <p align="center">
 <align="center">Proforma list
