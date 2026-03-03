@@ -60,7 +60,7 @@ The module is assumed to have low carbon emissions. However, there isn’t suffi
 The pre-construction assessment is limited to activities that require travel, attendance on site and equipment necessary for the site only. A proforma list of designers, specialists and consultants can help record those activities exclusive to the site.
 
 <p align="center">
-<img alt="Proforma list" src="assets/CarbonNotes1Table.jpg" width="900px" />
+<img alt="Proforma list" src="assets/CarbonNotes1_Table.png" width="900px" />
 </p>
 <p align="center">
 <align="center">Proforma list
