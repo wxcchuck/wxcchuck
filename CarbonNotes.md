@@ -53,7 +53,7 @@ Proforma list
 
 #### 📊 Data sources 
 - **Initial assumptions** can be based on consultant input or past project experience. 
-- **Emission factors** for projects in the UK can be sourced from [GOV.UK](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025). Be careful with using the correct units for calculation here - gCO2e/km, gCO2e/mile, kgCO2e/tonne.km, etc.
+- **Emission factors** for projects in the UK can be sourced from [GOV.UK](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025). Be careful with using the correct units for calculation here - gCO~2~e/km, gCO~2~e/mile, kgCO~2~e/tonne.km, etc.
 - **Records**: As a project progresses, records of what, how and when each activity took place should be requested from the consultants. 
 
 #### 📝 Assessment methods
