@@ -11,6 +11,13 @@ Over the past year, I took part in the RICS WLCA training programme to study the
 This new series — Carbon Notes — is my way of sharing lessons learned and practical tips from the training and from real-world practice.
 Each post will unpack one module at a time. Starting with the basics: terminologies and assessment boundaries — because it’s essential we’re all speaking the same language.
 
+<p align="center">
+<img alt="Carbon Notes_#0" src="assets/Carbon Notes_#0.jpg" width="1080px" />
+</p>
+<p align="center">
+<align="center">Carbon Notes_#0
+</p>
+
 #### 🧱 The RICS WLCA Professional Standard is built on a framework of modules (EN 15978):
 - **[A0–A5]** Upfront Carbon**: From raw material sourcing to construction and installation. [A0] is new in the 2nd edition and optional for separate reporting — but should be included in upfront and embodied carbon. 
 - **[B1–B5]** In use: use, maintenance, repair, replacement, refurbishment.
@@ -42,11 +49,22 @@ The first three portray a linear asset life cycle. Cradle to Cradle, however, fo
 
 The module is assumed to have low carbon emissions. However, there isn’t sufficient evidence to confirm that it contributes only a small percentage to the overall assessment. In reality, its impact depends on project type, site logistics, and consultant coordination.
 
+<p align="center">
+<img alt="Carbon Notes_#1" src="assets/Carbon Notes_#1.jpg" width="1080px" />
+</p>
+<p align="center">
+<align="center">Carbon Notes_#1
+</p>
+
 #### 📏 Scope & Extent
 The pre-construction assessment is limited to activities that require travel, attendance on site and equipment necessary for the site only. A proforma list of designers, specialists and consultants can help record those activities exclusive to the site.
 
-Article content
-Proforma list
+<p align="center">
+<img alt="Proforma list" src="assets/Carbon Notes_#1 Table.jpg" width="900px" />
+</p>
+<p align="center">
+<align="center">Proforma list
+</p>
 
 - 📌 **Exclusivity of activities**: Activities that do not require travel away from the office do not need to be recorded (e.g. the architect’s daily commute).
 - 📌 **Travel distance**: Travel assessments are based on door-to-door distance to and from the location away from their workplace, considering all transportation modes and overnight stays (incl. travel to and from the site to the hotel). Accommodation emissions should also be assessed, excluding catering expenses. 
