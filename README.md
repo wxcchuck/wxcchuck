@@ -2,7 +2,7 @@
 
 ## I work in the field of sustainability within the built environment.
 
-### I am an architect, environmental analyst and carbon specialist.
+### environmental analysis, whole life carbon assessment, sustainable design
 
 **A bit more about me**
 - 🔭 I am currently working on a module by module WLCA guide - Carbon Notes.
