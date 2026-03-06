@@ -3,6 +3,6 @@ title: Home
 layout: home
 ---
 
-# Welcome to my site.
+# Hi, I'm Xuecheng.
 
-## I am Xuecheng.
+## environmental analyst, carbon accountant, architect
