@@ -11,3 +11,4 @@ linkedin_username: xuechengwang
 theme: minima
 plugins: 
 - jekyll-feed
+- jekyll-sitemap
