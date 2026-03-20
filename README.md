@@ -10,7 +10,7 @@
 - I am looking to collaborate on developing tools for building information aggregation and prediction based on location data (e.g. postcodes).
 
 **...and a little bit more...**
-- I am a native Mandarin (and Suzhounese) speaker, and fluent in English. I can also converse in Swedish.
+- I am a native Mandarin (and Suzhounese) speaker. I can also converse in Swedish.
 - I enjoy reading (the New Yorker) and composting (bokashi). 
 - Fun fact: I saw the Northern Lights (by accident) while herding sheep in Finnmark, Norway.
 
