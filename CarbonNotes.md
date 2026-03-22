@@ -6,10 +6,10 @@ permalink: /carbonnotes
 
 # Carbon Notes #0
 ## Understanding WLCA Terminology
-Over the past year, I took part in the RICS WLCA training programme to study the intricacies of whole life carbon assessments — module by module. Along the way, I encountered confusion, misinterpretations, and frequent errors, both in my own work and in assessments I reviewed.
+During 2024/25, I took part in the RICS WLCA training programme to study the intricacies of whole life carbon assessments — module by module. Along the way, I encountered confusion, misinterpretations, and frequent errors, both in my own work and in assessments I reviewed.
 
-This new series — Carbon Notes — is my way of sharing lessons learned and practical tips from the training and from real-world practice.
-Each post will unpack one module at a time. Starting with the basics: terminologies and assessment boundaries — because it’s essential we’re all speaking the same language.
+This series — Carbon Notes — is my way of sharing lessons learned and practical tips from the training and from real-world practice.
+Each post will unpack one module at a time. The first post starts with the basics: terminologies and assessment boundaries — because it’s essential we’re all speaking the same language.
 
 <p align="center">
 <img alt="Carbon Notes_#0" src="assets/CarbonNotes0.jpg" width="1080px" />
@@ -55,9 +55,6 @@ The pre-construction assessment is limited to activities that require travel, at
 
 <p align="center">
 <img alt="Proforma list" src="assets/CarbonNotes1_Table.png" width="750px" />
-</p>
-<p align="center">
-<align="center">Proforma list
 </p>
 
 - 📌 **Exclusivity of activities**: Activities that do not require travel away from the office do not need to be recorded (e.g. the architect’s daily commute).
