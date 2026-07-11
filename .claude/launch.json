@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "static-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4321", "--directory", "/private/tmp/claude-501/-Users-xwang-Documents-GitHub-wxcchuck/6050d9fd-32bd-46d4-96e0-e7ff22feb1f3/scratchpad/preview"],
+      "port": 4321
+    }
+  ]
+}
