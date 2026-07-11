@@ -9,6 +9,11 @@ linkedin_username: xuechengwang
 
 # Building settings
 theme: minima
-plugins: 
+plugins:
 - jekyll-feed
 - jekyll-sitemap
+
+header_pages:
+- About.md
+- CarbonNotes.md
+- Projects.md
